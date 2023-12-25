@@ -19,7 +19,7 @@ public class SearchController : ControllerBase
             query.Match(Search.Full, searchParams.SearchTerm).SortByTextScore();
         }
 
-        query = searchParams.OrderyBy switch
+        query = searchParams.OrderBy switch
         {
             "make" => query.Sort(x => x.Ascending(a => a.Make)),
             "new" => query.Sort(x => x.Descending(a => a.CreatedAt)),

@@ -100,3 +100,10 @@
 /Users/gavinbarham/Documents/Code/Repos/Courses/microservice_udemy/microservice_udemy/src/AuctionService/obj/Debug/net8.0/AuctionService.csproj.AssemblyReference.cache
 /Users/gavinbarham/Documents/Code/Repos/Courses/microservice_udemy/microservice_udemy/src/AuctionService/obj/Debug/net8.0/AuctionService.sourcelink.json
 /Users/gavinbarham/Documents/Code/Repos/Courses/microservice_udemy/microservice_udemy/src/AuctionService/obj/Debug/net8.0/AuctionService.csproj.CopyComplete
+/Users/gavinbarham/Documents/Code/Repos/Courses/microservice_udemy/microservice_udemy/src/AuctionService/bin/Debug/net8.0/MassTransit.dll
+/Users/gavinbarham/Documents/Code/Repos/Courses/microservice_udemy/microservice_udemy/src/AuctionService/bin/Debug/net8.0/MassTransit.Abstractions.dll
+/Users/gavinbarham/Documents/Code/Repos/Courses/microservice_udemy/microservice_udemy/src/AuctionService/bin/Debug/net8.0/MassTransit.RabbitMqTransport.dll
+/Users/gavinbarham/Documents/Code/Repos/Courses/microservice_udemy/microservice_udemy/src/AuctionService/bin/Debug/net8.0/RabbitMQ.Client.dll
+/Users/gavinbarham/Documents/Code/Repos/Courses/microservice_udemy/microservice_udemy/src/AuctionService/bin/Debug/net8.0/Contracts.dll
+/Users/gavinbarham/Documents/Code/Repos/Courses/microservice_udemy/microservice_udemy/src/AuctionService/bin/Debug/net8.0/Contracts.pdb
+/Users/gavinbarham/Documents/Code/Repos/Courses/microservice_udemy/microservice_udemy/src/AuctionService/bin/Debug/net8.0/MassTransit.EntityFrameworkCoreIntegration.dll
